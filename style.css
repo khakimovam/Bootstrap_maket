@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.nav>a {
+    color: white;
+}
+
+.welcome,
+.main {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
